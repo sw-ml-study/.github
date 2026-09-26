@@ -2,7 +2,7 @@
 
 Machine learning studied by building it. Nothing here is a wrapper around somebody else's framework: if it learns, the learning is in the repository, and it is kept small enough to read in an afternoon.
 
-The centre of it is **sw-MLPL**, a small language for writing machine learning so the code reads like the paper, and a set of demos that use it to take one idea apart at a time.
+The center of it is **sw-MLPL**, a small language for writing machine learning so the code reads like the paper, and a set of demos that use it to take one idea apart at a time.
 
 **25 repositories** of my own, and 10 forks of other people's work.
 
